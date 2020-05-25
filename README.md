@@ -4,6 +4,8 @@
 
 **Professor** : Lazhar FEKIH-AHMED
 
+**Professor** : **Ahmed Mustapha GHANMI**
+
 **Date** : May 25th 2020
 
 This repository contains the requested answers for the homework.
