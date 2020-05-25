@@ -4,7 +4,7 @@
 
 **Professor** : Lazhar FEKIH-AHMED
 
-**Professor** : **Ahmed Mustapha GHANMI**
+**Student** : **Ahmed Mustapha GHANMI**
 
 **Date** : May 25th 2020
 
